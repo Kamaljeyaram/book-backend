@@ -1,6 +1,5 @@
 node_modules/
 .env
 coverage/
-# Keep data/ and uploads/ for deployment but ignore local versions
+# Only ignore the local JSON file, but keep PDFs for deployment
 /data/books.json
-/uploads/*.pdf
