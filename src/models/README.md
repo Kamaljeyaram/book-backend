@@ -1,0 +1,1 @@
+BookStore: simple file-backed store using JSON array. Replace with DB for production.

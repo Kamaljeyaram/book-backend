@@ -1,0 +1,6 @@
+node_modules/
+.env
+coverage/
+# Keep data/ and uploads/ for deployment but ignore local versions
+/data/books.json
+/uploads/*.pdf
